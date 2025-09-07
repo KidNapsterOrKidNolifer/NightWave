@@ -19,6 +19,7 @@ Ele possui uma interface hacker interativa, cores neon e banner ASCII com caveir
 ██╔══██║██║██║╚██╗██║██╔══██║╚════██║██╔═══╝ ██╔══╝
 ██║ ██║██║██║ ╚████║██║ ██║███████║██║ ███████╗
 ╚═╝ ╚═╝╚═╝╚═╝ ╚═══╝╚═╝ ╚═╝╚══════╝╚═╝ ╚══════╝
+
 KidNapsterOrKidNolifer
 
 
