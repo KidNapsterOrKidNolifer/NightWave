@@ -13,7 +13,6 @@ NightWave é uma ferramenta de aprendizado para automação de envio de mensagen
 
 Ele possui uma interface hacker interativa, cores neon e banner ASCII com caveira para dar aquele clima dark.  
 
-_Assinatura do Hacker:_  
 ██╗ ██╗██╗███╗ ██╗ █████╗ ███████╗██████╗ ███████╗
 ██║ ██║██║████╗ ██║██╔══██╗██╔════╝██╔══██╗██╔════╝
 ███████║██║██╔██╗ ██║███████║███████╗██████╔╝█████╗
