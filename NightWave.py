@@ -4,7 +4,7 @@
 """
 ================================================================================
 NightWave - Dark Message Sender v1.0
-Author: KidNapsterOrKidNolifer (Ethical Hacker / CyberSec)
+Author: KidNapsterOrKidNolifer (CyberSec)
 GitHub: https://github.com/KidNapsterOrKidNolifer/NightWave
 
 Descrição:
@@ -19,7 +19,7 @@ Funcionalidades:
 4. Menu interativo com cores e banner hacker
 
 Como usar:
-- Execute o script: python3 bomber.py
+- Execute o script: python3 NightWave.py
 - Escolha uma opção no menu
 - Digite os números de destino (com código do país)
 - Digite a mensagem
