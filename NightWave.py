@@ -16,7 +16,6 @@ Funcionalidades:
 1. Envio de mensagem única para um número
 2. Envio de mensagens para múltiplos números
 3. Logging de envios (nightwave.log)
-4. Menu interativo com cores e banner hacker
 
 Como usar:
 - Execute o script: python3 NightWave.py
